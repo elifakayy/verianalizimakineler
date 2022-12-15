@@ -1,0 +1,2 @@
+# verianalizimakineler
+fabrikada makine duruşları
